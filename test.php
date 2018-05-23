@@ -1,5 +1,5 @@
-<?php
+<?ph
 
-echo "changed in local file":
+echo "commit for branch keru":
 
 ?>
